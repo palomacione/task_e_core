@@ -9,8 +9,8 @@ Nesse desafio, usamos a linguagem Python e criamos a classe Person, feita para c
 ## Execução
 
 Apenas teremos duas depências: PyQt para a parte gráfica (UI) e Flask para a parte REST. Podemos executar então como:
-- git clone https://github.com/palomacione/task_e_core
-- cd task_e_core
-- pip install pyqt5
-- pip install Flask
-- python main.py (para rodar com parte gráfica) ou python routes.py (para fazer as requisições HTTP)
+- ``` git clone https://github.com/palomacione/task_e_core ```
+- ``` cd task_e_core ```
+- ``` pip install pyqt5 ```
+- ``` pip install Flask ```
+- ```python main.py (para rodar com parte gráfica) ou python routes.py (para fazer as requisições HTTP)```

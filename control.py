@@ -6,6 +6,7 @@ class Control:
         self.personList = []
     
     def add(self, name, age):
+        name = name.capitalize()
         newPerson = Person(name, age)
         self.personList.append(newPerson)
         print("Pessoa Adicionada")
